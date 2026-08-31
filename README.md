@@ -132,3 +132,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ---
 
 > **Warning!** This application is deliberately vulnerable and is designed solely for educational purposes. Do **not** use it in production or with real data.
+
+
+<!-- Security scan triggered at 2026-08-31 17:24:51 -->
